@@ -406,6 +406,10 @@ transition: all ease .5s;
         .content {
             padding-top: 80px;
          }
+         .banner-section .content h1 {
+    font-size: 30px;
+    margin-top: 80px;
+}
         nav{
            padding-right: 13px;
            
